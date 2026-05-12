@@ -104,6 +104,10 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 [PostgreSQL查询优化器详解（逻辑优化篇）](https://blog.csdn.net/shujiezhang/article/details/108729281?spm=1001.2014.3001.5502)
 
+# 并行
+
+[聊聊 PG 中的并行顺序扫描](https://mp.weixin.qq.com/s/Rb20g05c75oaftidBVOa4g)
+
 # 数据库生态
 
 [OpenTeleDB 测评，XStore 是惊喜！](https://mp.weixin.qq.com/s/42s-Mn6DusAQSK_wizC7jw)
@@ -185,6 +189,10 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [Can there be orphaned data files in PostgreSQL?](https://www.dbi-services.com/blog/can-there-be-orphaned-data-files-in-postgresql/)
 
 # 个人活动记录
+
+[在 PostgreSQL 生态中实现高性能向量化执行引擎](https://mp.weixin.qq.com/s/WGxLxN1ULA0YNPsYffXrxg)
+
+[How to implement high performance pluggable vectorized executor in PostgreSQL](https://mp.weixin.qq.com/s/PgE7-Mxb3GnmKQ9IbSzKHg)
 
 [IvorySQL大会，俺来了！](https://mp.weixin.qq.com/s/55ILqcIQwhMax2bkzW6EYA)
 
