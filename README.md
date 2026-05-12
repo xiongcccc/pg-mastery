@@ -424,6 +424,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 [深入浅出 PostgreSQL 列对齐](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492151&idx=1&sn=069b408865f6e15d09fb8e02a9d2f03d&chksm=fa65ca06cd1243109d1ab73352fa0d333b68b8e95f6f9b6c02d5c427f3a60c633e451adb05c9&token=1712543260&lang=zh_CN#rd)
 
+[新瓶装旧酒，再唠唠列对齐](https://mp.weixin.qq.com/s/Wy5HP6ONo4WeEH056OOYdQ)
+
 # 工具
 
 [数据库又有风吹草动？莫慌，我有利器](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492014&idx=1&sn=054c06d03c1153ca41a60137ca3af9c7&chksm=fa65c99fcd1240896de5fd69baf7cd68d3f111a0d97a6a5bddfc6c783c093d75d652128cfb10&token=802679277&lang=zh_CN#rd)
