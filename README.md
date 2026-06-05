@@ -434,6 +434,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 [5秒上手，小而精悍的PostgreSQL安全评估工具](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491959&idx=1&sn=179753ae200b5d89b6e4ddbe2ee80ffb&chksm=fa65c946cd12405039aab521aabf0d00c8d78f90aee4ef8cfda168f6b404b359a97364f83f37&token=215916164&lang=zh_CN#rd)
 
+[pgcheck 2.0，焕然一新](https://mp.weixin.qq.com/s/WnPxymaWUbU1rIhsAP-A-Q)
+
 [pgcheck工具发布啦](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489451&idx=1&sn=9035cf0eb0a283aa99b9c48206ebcaa5&chksm=fa663f9acd11b68c66d77dd9ee81253cb9300699374eb970598427b27858e343776a0a4f4558&token=1039605624&lang=zh_CN#rd)
 
 [祖传SQL脚本来啦](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489446&idx=1&sn=5d31b87eac49366f76db3a9b0b07dc2d&chksm=fa663f97cd11b681abcb6e8ed04903f737b4e4d5622475b8a4a26b2246cbf3732d4fd8fc5b9e&token=1039605624&lang=zh_CN#rd)
@@ -447,6 +449,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [又一款开源巡检工具，不愧为postgres.ai出品，给力~](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492317&idx=1&sn=b2a418db4f22d0c0236cd04ed4615968&chksm=fa65caeccd1243fa66f9893a2564d31cee875df9073e49126f839ca1646b018a9bc680fecc0a&token=618823458&lang=zh_CN#rd)
 
 # 面试与资料汇总
+
+[说个秘密，postgres-howto 中文站它更新了](https://mp.weixin.qq.com/s/qa0cb53VgzbWAmEpj_cI3Q)
 
 [个人主页悄悄上新了](https://mp.weixin.qq.com/s/J5P7tYHh-LSb54kgCZLOhw)
 
@@ -505,6 +509,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [日常答疑第二期](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490199&idx=1&sn=00949c58ba6959d13cfa8d3fae94dc27&chksm=fa6632a6cd11bbb016f57c8dc99742c31cfc3f0ef45d877771796552bf8b58eba1e928fd1eb4&token=1039605624&lang=zh_CN#rd)
 
 # 新特性解读
+
+[PG 19 beta1 新特性解读](https://mp.weixin.qq.com/s/vx5VqJGtiGh58sNTiCMBsg)
 
 [PG 18 让 NUMA 可观测、可感知](https://mp.weixin.qq.com/s/TeWCaj7e8xRRjl1eIQ84wg)
 
