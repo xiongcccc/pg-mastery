@@ -510,6 +510,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 # 新特性解读
 
+[PostgreSQL 19 PGQ 图查询初探](https://mp.weixin.qq.com/s/G01Ou--Y_f7qKeVK5dPeWw)
+
 [PG 19 beta1 新特性解读](https://mp.weixin.qq.com/s/vx5VqJGtiGh58sNTiCMBsg)
 
 [PG 18 让 NUMA 可观测、可感知](https://mp.weixin.qq.com/s/TeWCaj7e8xRRjl1eIQ84wg)
@@ -569,6 +571,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [再唠唠晕乎的权限体系](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489261&idx=1&sn=2bf28fcfeb7523b5cffea0cbdec3da94&chksm=fa663edccd11b7ca5e89544c9618d334c9e8e6c37d4b40b1fa55f2e5729e17cde8d2b8841327&token=1039605624&lang=zh_CN#rd)
 
 # 个人感想
+
+[别把数据库技术写成饭圈文学，降智](https://mp.weixin.qq.com/s/xwk2mzkQeBf_y0qlt0KWug)
 
 [盘点一下我做过的 PG 那些事儿](https://mp.weixin.qq.com/s/meJo1UYIGyMwPfnOGJfUaw)
 
