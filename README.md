@@ -110,6 +110,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 # 数据库生态
 
+[从数据库到后端底座：HigoBase 想讲一个什么新故事？](https://mp.weixin.qq.com/s/aBk4hEkyQAmVGo6LAMyPGg)
+
 [OpenTeleDB 测评，XStore 是惊喜！](https://mp.weixin.qq.com/s/42s-Mn6DusAQSK_wizC7jw)
 
 [PostgreSQL + 组播，有希望成为下一个被收购的 neon 吗？](https://mp.weixin.qq.com/s/cqEZypYUR8fLBSRyMuQZ_g)
@@ -428,6 +430,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 # 工具
 
+[pg-slide-harvester：自动收集 PG 大会演讲资料](https://mp.weixin.qq.com/s/MRpspI7sVyYY6e1FCIkIHQ)
+
 [数据库又有风吹草动？莫慌，我有利器](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492014&idx=1&sn=054c06d03c1153ca41a60137ca3af9c7&chksm=fa65c99fcd1240896de5fd69baf7cd68d3f111a0d97a6a5bddfc6c783c093d75d652128cfb10&token=802679277&lang=zh_CN#rd)
 
 [羡慕隔壁家的ASH？别急，咱也整一个！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492003&idx=1&sn=3c23ee8e09c1269802190b402d666fc4&chksm=fa65c992cd124084b110ae5fd768c502be61c7b0d280641bc6617bb497e6ca0240040be38069&token=1815130601&lang=zh_CN#rd)
@@ -571,6 +575,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [再唠唠晕乎的权限体系](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489261&idx=1&sn=2bf28fcfeb7523b5cffea0cbdec3da94&chksm=fa663edccd11b7ca5e89544c9618d334c9e8e6c37d4b40b1fa55f2e5729e17cde8d2b8841327&token=1039605624&lang=zh_CN#rd)
 
 # 个人感想
+
+[技术不会自己长腿：读《疯传》有感](https://mp.weixin.qq.com/s/Bi5N9kGF7gKI0QiMJVcDqA)
 
 [别把数据库技术写成饭圈文学，降智](https://mp.weixin.qq.com/s/xwk2mzkQeBf_y0qlt0KWug)
 
